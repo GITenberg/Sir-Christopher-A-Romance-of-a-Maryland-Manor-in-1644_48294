@@ -1,4 +1,5 @@
 _repo: Sir-Christopher-A-Romance-of-a-Maryland-Manor-in-1644_48294
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Pyle, Howard
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '491'
     url: http://www.gutenberg.org/2009/agents/491
     wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+covers:
+- cover_type: archival
+  image_path: 48294-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Goodwin, Maud Wilder
@@ -15,6 +19,8 @@ creator:
     gutenberg_agent_id: '24865'
     url: http://www.gutenberg.org/2009/agents/24865
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48294#Sir-Christopher-A-Romance-of-a-Maryland-Manor-in-1644
 gutenberg_issued: '2015-02-17'
 gutenberg_type: Text
 identifiers:
